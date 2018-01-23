@@ -1,3 +1,22 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+from __future__ import print_function
+
+'''
+会玩游戏的DQN
+
+状态太多 表格太大  Ｑ不起来啊
+
+Ｑ现实 - Ｑ估计  -> 改进网络
+
+
+Expericence replay
+
+Fixed Q-Targets  俩评估网络，为啥有俩？
+
+
+'''
+
 """
 This part of code is the DQN brain, which is a brain of the agent.
 All decisions are made in here.

@@ -1,3 +1,21 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+from __future__ import print_function
+
+'''
+一个叫"傻傻"的智能算法的改进版
+
+没那么傻了！
+ 单步更新  回合更新
+
+ 啥时候复盘？
+
+ 离成功越近的脚步越重要
+
+
+'''
+
+
 """
 This part of code is the Q learning brain, which is a brain of the agent.
 All decisions are made in here.

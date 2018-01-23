@@ -1,3 +1,20 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+from __future__ import print_function
+
+'''
+一个叫"傻傻"的智能算法
+
+说它傻主要是他不会想像
+
+不光傻还胆子小 
+
+在线策略
+
+离线策略
+
+'''
+
 """
 This part of code is the Q learning brain, which is a brain of the agent.
 All decisions are made in here.
@@ -7,6 +24,7 @@ View more on my tutorial page: https://morvanzhou.github.io/tutorials/
 
 import numpy as np
 import pandas as pd
+
 
 
 class RL(object):
